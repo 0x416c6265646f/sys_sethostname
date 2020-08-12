@@ -1,6 +1,10 @@
+# Information
+
 Salut ,  c'est un petit exercice que j'ai fais en  nasm  , c'est un syscall, sys_sethostname
 
 Il consiste à   changer le nom de votre machine ^^
+
+# Utilisation
 
 Vous devez  d'abord  modifier  le fichier  sys_hostname.asm
 et mettre le futur nom de votre machine
