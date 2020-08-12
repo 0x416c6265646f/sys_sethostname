@@ -1,4 +1,4 @@
-Salut ,  c'est un petit exercice que j'ai fais en  nasm  , c'est un syscall, sys_hostname
+Salut ,  c'est un petit exercice que j'ai fais en  nasm  , c'est un syscall, sys_sethostname
 
 Il consiste à   changer le nom de votre machine ^^
 
